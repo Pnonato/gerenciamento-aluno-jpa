@@ -137,8 +137,6 @@ public class Main {
 
                         break;
                     case 6:
-                        System.out.println("Vai curintia!!");
-                        System.out.println("Obrigado Diego Souza #Libertadores2012");
                         break;
                     default:
                         System.out.println("Opção inválida!");
